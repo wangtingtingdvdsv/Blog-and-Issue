@@ -27,9 +27,9 @@
   }
 }
 <span class="copy-code-btn">复制代码</span></code></pre><p>再往下看</p>
-<h2 class="heading" data-id="heading
+<h2 class="heading" data-id="heading-1">2. <code>Promise</code> 状态和值</h2>
 <p><code>Promise</code> 对象存在以下三种状态：</p>
-<ul>-1">2. <code>Promise</code> 状态和值</h2>
+<ul>
 <li>
 <p><code>Pending(进行中)</code></p>
 </li>
